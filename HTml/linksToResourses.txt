@@ -1,0 +1,25 @@
+techcrunch.com - techCrunch 
+
+https://code.visualstudio.com/download - To download VS code
+
+https://www.google.com/chrome/- To download Google chrome
+
+Download and install VS code on windows -https://www.youtube.com/watch?v=luGaWH_Uf_Y
+
+Download and install chrome on windows - https://www.youtube.com/watch?v=zJlY0eYloOU
+
+Download and install vs code on mac - https://www.youtube.com/watch?v=bJaBHGKHv9A
+ 
+Download and install Chrome on mac-https://www.youtube.com/watch?v=8T6MRxz0HCs
+
+Download and install Vs code on Linux - https://www.youtube.com/watch?v=BQQYggwOUeY
+
+Download and install Chrome on Linux - https://www.youtube.com/watch?v=k_iuTefIUMY
+
+Having issues creating a folder? watch these videos
+ Windows https://www.youtube.com/watch?v=DRKZSLVnZGY
+ Mac - https://www.youtube.com/watch?v=W2p3c96yVGo
+ Linux - https://www.youtube.com/watch?v=Smw699_ZsvY
+
+ MDN foundation documentation has a lot of resources that can help you.  
+https://developer.mozilla.org/en-US/docs/Learn
