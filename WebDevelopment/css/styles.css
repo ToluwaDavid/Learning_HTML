@@ -1,0 +1,16 @@
+hr{
+	border-top-style: dotted;
+	background-color: yellow;
+	height: 3px;
+}
+body
+{
+	background-color: tomato;
+}
+h1{
+	color: yellow;
+
+}
+p{
+	color: yellow;
+}

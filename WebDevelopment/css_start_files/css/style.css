@@ -1,0 +1,130 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #e4f9f5;
+	text-align: center;
+}
+
+.nav-container
+{
+	background-color: #11999e;
+	padding: 20px 0 50px 0;
+}
+
+.nav-link
+{
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 18px;
+}
+.nav-link:hover
+{
+	color: black;
+	
+}
+.top-container
+{
+background-color: #11999e;
+padding-top: 10px; 
+}
+
+.second-container
+{
+	margin-top: 40px;
+}
+
+.about
+{
+	width: 50%;
+	margin: auto;
+}
+.skill-class
+{
+	text-align: right;
+	width: 50%;
+	margin: auto;
+	display: inline-block;
+}
+
+.img1
+{
+	float: right;
+	width: 25%;
+}
+.img2
+{
+	float: left;
+	width: 25%;
+}
+
+.contact-me
+{
+	width: 50%;
+	margin: auto;
+}
+.btn
+{
+	background-color:  #11999e;
+	text-decoration: none;
+	border-radius: 10px;
+	margin: 20px;
+	padding: 15px;
+}
+
+.btn:hover
+{
+	background:#e4f9f5;
+	color: white;
+}
+.contact-link
+{
+	text-decoration: none;
+	color: black;
+}
+
+.contact-link:hover
+{
+	color: #11999e;
+}
+
+.last-container
+{
+	background-color:#11999e;
+	padding: 50px; 
+
+}
+
+.footer-link
+{
+	padding: 10px;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+
+.footer-link:hover{
+	color: black;
+}
+
+h1{
+	 margin: 0;
+	 font-size: 5rem;
+	 color: white;
+}
+
+h2{
+	font-size: 2rem;
+	padding-bottom: 10px;
+	color: #40514e;
+}
+
+h3
+{
+	color: #40514e;
+}
+p
+{
+	color: #40514e;
+}

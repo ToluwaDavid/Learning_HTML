@@ -1,0 +1,126 @@
+body{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	background-color: #e4f9f5
+}
+
+.top-container
+{
+	background-color: #11999e;
+	padding-top: 10px;
+
+	/*margin-block-start: 10px;*/
+	/*margin-top: -20px;*/
+}
+.second-container
+{
+	margin-top: 40px;
+}
+
+.nav-container{
+	background-color: #11999e;
+	padding: 20px 0 50px 0;
+}
+nav{
+	float: right
+	padding: 20px;
+}
+.nav-link{
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 18px;
+}
+.nav-link:hover{
+	color: #40514e;
+}
+h1
+{
+	 margin: 0;
+	 font-size: 5rem;
+	 color: white;
+	 /*padding-top: 20px;*/
+}
+
+h2
+{
+	/*color: white;*/
+	font-size: 2rem;
+	padding-bottom: 10px;
+	color: #40514e;
+}
+h3{
+	color: #40514e;
+}
+p
+{
+	color: #40514e;
+}
+
+.about
+{
+	width: 50%;
+	margin: auto
+}
+
+.skill-class{
+	text-align: right;
+	width: 50%;
+	margin: auto;
+	display: inline-block;
+}
+
+.img1{
+	float: left;
+	 /*margin-right: 30px;*/
+	 width: 25%;
+}
+.img2{
+	float: right;
+	 /*margin-right: 30px;*/
+	 width: 25%;
+}
+
+.contact-me
+{
+width: 50%;
+margin: auto;
+}
+.btn{
+	margin: 20px;
+	padding: 15px;
+	border-radius: 10px;
+	text-decoration: none;
+	background-color:  #11999e;
+}
+
+.contact-link{
+	text-decoration: none;
+	color: black;
+}
+
+.contact-link:hover{
+	color: #11999e;
+}
+
+.btn:hover{
+	background:#e4f9f5;
+	color: white;
+}
+
+.last-container{
+	background-color:#11999e;
+	padding: 50px;
+}
+
+.footer-link{
+	padding: 10px;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+.footer-link:hover{
+	color: black;
+}
